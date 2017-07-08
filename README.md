@@ -1,2 +1,2 @@
 # GameTextMode
-Criar documento de com criar um jogo modo tex com C++
+Criar documento de com criar um jogo modo texto com C++
